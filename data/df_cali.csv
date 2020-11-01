@@ -1,0 +1,175 @@
+"year","county","FIPS","candidate","party","unemployment_rate","percentage_votes"
+2008,"alameda","06001","Barack Obama","democrat",6.2,0.787573527162178
+2008,"alpine","06003","Barack Obama","democrat",10.5,0.609826589595376
+2008,"amador","06005","Barack Obama","democrat",7.7,0.415364167995747
+2008,"butte","06007","Barack Obama","democrat",8.5,0.498479532163743
+2008,"calaveras","06009","Barack Obama","democrat",8.7,0.421050373294431
+2008,"colusa","06011","Barack Obama","democrat",13.8,0.399595582516721
+2008,"contra costa","06013","Barack Obama","democrat",6.2,0.679692239566036
+2008,"del norte","06015","Barack Obama","democrat",8.8,0.453572552722694
+2008,"el dorado","06017","Barack Obama","democrat",7,0.436142737231776
+2008,"fresno","06019","Barack Obama","democrat",10.6,0.50206214720389
+2008,"glenn","06021","Barack Obama","democrat",10.5,0.377973479097075
+2008,"humboldt","06023","Barack Obama","democrat",7.3,0.622844320303796
+2008,"imperial","06025","Barack Obama","democrat",22.6,0.622411128284389
+2008,"inyo","06027","Barack Obama","democrat",6.6,0.438649947263565
+2008,"kern","06029","Barack Obama","democrat",9.8,0.401361391453726
+2008,"kings","06031","Barack Obama","democrat",10.6,0.420046712999886
+2008,"lake","06033","Barack Obama","democrat",10.7,0.581551953644977
+2008,"lassen","06035","Barack Obama","democrat",9.6,0.314920523403882
+2008,"los angeles","06037","Barack Obama","democrat",7.6,0.691887104279126
+2008,"madera","06039","Barack Obama","democrat",9.5,0.423846063038602
+2008,"marin","06041","Barack Obama","democrat",4.7,0.779759909270527
+2008,"mariposa","06043","Barack Obama","democrat",7.5,0.424826442855663
+2008,"mendocino","06045","Barack Obama","democrat",6.9,0.695796681327469
+2008,"merced","06047","Barack Obama","democrat",12.6,0.533334378134403
+2008,"modoc","06049","Barack Obama","democrat",9.7,0.297058823529412
+2008,"mono","06051","Barack Obama","democrat",5.9,0.555196553581045
+2008,"monterey","06053","Barack Obama","democrat",8.5,0.681545348774493
+2008,"napa","06055","Barack Obama","democrat",5.1,0.651369840045605
+2008,"nevada","06057","Barack Obama","democrat",6.6,0.51425952881557
+2008,"orange","06059","Barack Obama","democrat",5.3,0.476349304447393
+2008,"placer","06061","Barack Obama","democrat",6.5,0.433905041390585
+2008,"plumas","06063","Barack Obama","democrat",10.6,0.427548059484947
+2008,"riverside","06065","Barack Obama","democrat",8.6,0.502112624922949
+2008,"sacramento","06067","Barack Obama","democrat",7.2,0.584929615727932
+2008,"san benito","06069","Barack Obama","democrat",9.7,0.604770362852068
+2008,"san bernardino","06071","Barack Obama","democrat",8,0.520703110826706
+2008,"san diego","06073","Barack Obama","democrat",6,0.541474858392896
+2008,"san francisco","06075","Barack Obama","democrat",5.3,0.841602131299544
+2008,"san joaquin","06077","Barack Obama","democrat",10.4,0.544421038552847
+2008,"san luis obispo","06079","Barack Obama","democrat",5.8,0.513942391050334
+2008,"san mateo","06081","Barack Obama","democrat",4.9,0.734691320575551
+2008,"santa barbara","06083","Barack Obama","democrat",5.5,0.603812202707647
+2008,"santa clara","06085","Barack Obama","democrat",6,0.694484133601968
+2008,"santa cruz","06087","Barack Obama","democrat",7.4,0.774573864750594
+2008,"shasta","06089","Barack Obama","democrat",10.1,0.359086951113323
+2008,"sierra","06091","Barack Obama","democrat",10.6,0.373179306880964
+2008,"siskiyou","06093","Barack Obama","democrat",10.2,0.432789939450396
+2008,"solano","06095","Barack Obama","democrat",6.9,0.634236797475353
+2008,"sonoma","06097","Barack Obama","democrat",5.8,0.736373506110721
+2008,"stanislaus","06099","Barack Obama","democrat",11.1,0.498580877557991
+2008,"sutter","06101","Barack Obama","democrat",12.4,0.407152181172399
+2008,"tehama","06103","Barack Obama","democrat",9.2,0.366058274676706
+2008,"trinity","06105","Barack Obama","democrat",12.8,0.507216818324443
+2008,"tulare","06107","Barack Obama","democrat",10.8,0.414748208277094
+2008,"tuolumne","06109","Barack Obama","democrat",8,0.424266951179132
+2008,"ventura","06111","Barack Obama","democrat",6.3,0.552092407298411
+2008,"yolo","06113","Barack Obama","democrat",7.4,0.670704334850594
+2008,"yuba","06115","Barack Obama","democrat",11.9,0.414279706555768
+2012,"alameda","06001","Barack Obama","democrat",8.7,0.788534052333449
+2012,"alpine","06003","Barack Obama","democrat",11.2,0.595712098009188
+2012,"amador","06005","Barack Obama","democrat",12.3,0.386990764349255
+2012,"butte","06007","Barack Obama","democrat",12.2,0.470171456276446
+2012,"calaveras","06009","Barack Obama","democrat",12.4,0.397961993941063
+2012,"colusa","06011","Barack Obama","democrat",20.7,0.383493536625787
+2012,"contra costa","06013","Barack Obama","democrat",8.9,0.663639309397434
+2012,"del norte","06015","Barack Obama","democrat",13.5,0.432269099201824
+2012,"el dorado","06017","Barack Obama","democrat",10.2,0.396129497375358
+2012,"fresno","06019","Barack Obama","democrat",15.1,0.498900810193681
+2012,"glenn","06021","Barack Obama","democrat",14.2,0.358375854956031
+2012,"humboldt","06023","Barack Obama","democrat",9.6,0.59956499042979
+2012,"imperial","06025","Barack Obama","democrat",27.4,0.651782704524828
+2012,"inyo","06027","Barack Obama","democrat",9.1,0.4258337481334
+2012,"kern","06029","Barack Obama","democrat",13.1,0.404091713625199
+2012,"kings","06031","Barack Obama","democrat",14.9,0.413107136036667
+2012,"lake","06033","Barack Obama","democrat",12.8,0.562737805138729
+2012,"lassen","06035","Barack Obama","democrat",12.5,0.28578114761771
+2012,"los angeles","06037","Barack Obama","democrat",10.9,0.696905472283357
+2012,"madera","06039","Barack Obama","democrat",14.4,0.401796016655797
+2012,"marin","06041","Barack Obama","democrat",6.3,0.742632846650213
+2012,"mariposa","06043","Barack Obama","democrat",12.2,0.388666666666667
+2012,"mendocino","06045","Barack Obama","democrat",10,0.662335437073421
+2012,"merced","06047","Barack Obama","democrat",16.3,0.531849751035338
+2012,"modoc","06049","Barack Obama","democrat",14.4,0.278725539387857
+2012,"mono","06051","Barack Obama","democrat",10.3,0.527504342790967
+2012,"monterey","06053","Barack Obama","democrat",11.6,0.671319159960492
+2012,"napa","06055","Barack Obama","democrat",8.4,0.629651734306979
+2012,"nevada","06057","Barack Obama","democrat",9.7,0.477262171994736
+2012,"orange","06059","Barack Obama","democrat",7.9,0.456450015320701
+2012,"placer","06061","Barack Obama","democrat",9.4,0.390014125447987
+2012,"plumas","06063","Barack Obama","democrat",16.1,0.400716631830397
+2012,"riverside","06065","Barack Obama","democrat",11.6,0.49714385857832
+2012,"sacramento","06067","Barack Obama","democrat",10.5,0.58145852723153
+2012,"san benito","06069","Barack Obama","democrat",13,0.5921024994749
+2012,"san bernardino","06071","Barack Obama","democrat",11.4,0.524677696438797
+2012,"san diego","06073","Barack Obama","democrat",9.1,0.525846234364018
+2012,"san francisco","06075","Barack Obama","democrat",6.8,0.835314180986631
+2012,"san joaquin","06077","Barack Obama","democrat",14.4,0.557511834565235
+2012,"san luis obispo","06079","Barack Obama","democrat",8.2,0.487575415081424
+2012,"san mateo","06081","Barack Obama","democrat",6.4,0.721283074338513
+2012,"santa barbara","06083","Barack Obama","democrat",8.4,0.576347048738673
+2012,"santa clara","06085","Barack Obama","democrat",7.9,0.701017429881619
+2012,"santa cruz","06087","Barack Obama","democrat",11.8,0.756109746450726
+2012,"shasta","06089","Barack Obama","democrat",14.2,0.338232789677081
+2012,"sierra","06091","Barack Obama","democrat",14.4,0.363788300835655
+2012,"siskiyou","06093","Barack Obama","democrat",15.6,0.404118533400301
+2012,"solano","06095","Barack Obama","democrat",10.7,0.63487575765527
+2012,"sonoma","06097","Barack Obama","democrat",8.9,0.711022225506679
+2012,"stanislaus","06099","Barack Obama","democrat",14.9,0.500254233469997
+2012,"sutter","06101","Barack Obama","democrat",16.8,0.392960742602978
+2012,"tehama","06103","Barack Obama","democrat",13.7,0.345301823562693
+2012,"trinity","06105","Barack Obama","democrat",14.6,0.471272470919986
+2012,"tulare","06107","Barack Obama","democrat",16.2,0.41297725024728
+2012,"tuolumne","06109","Barack Obama","democrat",13,0.404990480819865
+2012,"ventura","06111","Barack Obama","democrat",9.1,0.522760219466991
+2012,"yolo","06113","Barack Obama","democrat",10.6,0.654112118160457
+2012,"yuba","06115","Barack Obama","democrat",15.4,0.391421319796954
+2016,"alameda","06001","Hillary Clinton","democrat",4.3,0.786900129305206
+2016,"alpine","06003","Hillary Clinton","democrat",6.3,0.554817275747508
+2016,"amador","06005","Hillary Clinton","democrat",5.9,0.338558700800722
+2016,"butte","06007","Hillary Clinton","democrat",6.6,0.434965049600268
+2016,"calaveras","06009","Hillary Clinton","democrat",5.7,0.343360995850622
+2016,"colusa","06011","Hillary Clinton","democrat",15.6,0.401236429433052
+2016,"contra costa","06013","Hillary Clinton","democrat",4.5,0.684908028101035
+2016,"del norte","06015","Hillary Clinton","democrat",7.5,0.364616028457836
+2016,"el dorado","06017","Hillary Clinton","democrat",5.1,0.388969024799393
+2016,"fresno","06019","Hillary Clinton","democrat",9.5,0.500642889780709
+2016,"glenn","06021","Hillary Clinton","democrat",8.3,0.323653643083421
+2016,"humboldt","06023","Hillary Clinton","democrat",4.9,0.560375383992168
+2016,"imperial","06025","Hillary Clinton","democrat",24.1,0.679274708365391
+2016,"inyo","06027","Hillary Clinton","democrat",5.3,0.390180558990848
+2016,"kern","06029","Hillary Clinton","democrat",10.4,0.404193100510724
+2016,"kings","06031","Hillary Clinton","democrat",10,0.401503759398496
+2016,"lake","06033","Hillary Clinton","democrat",6.7,0.469301110385369
+2016,"lassen","06035","Hillary Clinton","democrat",6.9,0.211326491828202
+2016,"los angeles","06037","Hillary Clinton","democrat",5.3,0.717572215421564
+2016,"madera","06039","Hillary Clinton","democrat",9.2,0.394994433104472
+2016,"marin","06041","Hillary Clinton","democrat",3.3,0.780531761360781
+2016,"mariposa","06043","Hillary Clinton","democrat",6.9,0.351695392587586
+2016,"mendocino","06045","Hillary Clinton","democrat",5.3,0.589134669263815
+2016,"merced","06047","Hillary Clinton","democrat",10.6,0.527158174292616
+2016,"modoc","06049","Hillary Clinton","democrat",7.8,0.231520591341077
+2016,"mono","06051","Hillary Clinton","democrat",5.4,0.525587566338135
+2016,"monterey","06053","Hillary Clinton","democrat",7.7,0.667786039817702
+2016,"napa","06055","Hillary Clinton","democrat",4.3,0.638711464511504
+2016,"nevada","06057","Hillary Clinton","democrat",4.8,0.474251388004005
+2016,"orange","06059","Hillary Clinton","democrat",4,0.509353071887675
+2016,"placer","06061","Hillary Clinton","democrat",4.5,0.402042233877893
+2016,"plumas","06063","Hillary Clinton","democrat",9.7,0.357482430756511
+2016,"riverside","06065","Hillary Clinton","democrat",6.1,0.497337604522812
+2016,"sacramento","06067","Hillary Clinton","democrat",5.4,0.582881304417786
+2016,"san benito","06069","Hillary Clinton","democrat",6.7,0.571109286626528
+2016,"san bernardino","06071","Hillary Clinton","democrat",5.8,0.52116492324724
+2016,"san diego","06073","Hillary Clinton","democrat",4.7,0.562979179424372
+2016,"san francisco","06075","Hillary Clinton","democrat",3.3,0.850396262124438
+2016,"san joaquin","06077","Hillary Clinton","democrat",8.1,0.540331718458642
+2016,"san luis obispo","06079","Hillary Clinton","democrat",4.3,0.497055751838766
+2016,"san mateo","06081","Hillary Clinton","democrat",3,0.756660644307598
+2016,"santa barbara","06083","Hillary Clinton","democrat",5.1,0.606054778093288
+2016,"santa clara","06085","Hillary Clinton","democrat",3.8,0.727124422168823
+2016,"santa cruz","06087","Hillary Clinton","democrat",7,0.739390316796175
+2016,"shasta","06089","Hillary Clinton","democrat",7,0.27857794211335
+2016,"sierra","06091","Hillary Clinton","democrat",7.6,0.328415300546448
+2016,"siskiyou","06093","Hillary Clinton","democrat",8.5,0.353015811048214
+2016,"solano","06095","Hillary Clinton","democrat",5.5,0.61620703978617
+2016,"sonoma","06097","Hillary Clinton","democrat",4,0.693763972791704
+2016,"stanislaus","06099","Hillary Clinton","democrat",8.6,0.474289266088088
+2016,"sutter","06101","Hillary Clinton","democrat",9.7,0.390060555439549
+2016,"tehama","06103","Hillary Clinton","democrat",7.1,0.284800066923206
+2016,"trinity","06105","Hillary Clinton","democrat",7.1,0.38937741822019
+2016,"tulare","06107","Hillary Clinton","democrat",11.2,0.423602827282924
+2016,"tuolumne","06109","Hillary Clinton","democrat",6.2,0.357358298405735
+2016,"ventura","06111","Hillary Clinton","democrat",5.2,0.552708642522873
+2016,"yolo","06113","Hillary Clinton","democrat",5.9,0.666975271043976
+2016,"yuba","06115","Hillary Clinton","democrat",8.6,0.343942951561005
